@@ -1,6 +1,6 @@
 
 
-<h1> Ecole42Project</h1>
+<h1 align="center"> Ecole42Project</h1>
 <div align="center";>
 <body>
 <table style="width:25%";>
