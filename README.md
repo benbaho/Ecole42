@@ -1,8 +1,12 @@
 
 
-<h1 align="center"> Ecole42Project</h1>
+<h1 align="center"> Ecole42Projects</h1>
 <div align="center";>
 <body>
+	<a href="https://github.com/JaeSeoKim/badge42">
+    <img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/stats?cursusId=21&coalitionId=233"
+    alt="bdurmus's 42 stats"/>
+  </a><br>
 <table style="width:25%";>
   <tr>
 	  <th> <a href="https://github.com/benbaho/Libft.h">Libft</a></th>
