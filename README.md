@@ -1,7 +1,6 @@
-# Ecole42
 
 
-
+<h1> Ecole42Project</h1>
 <div align="center";>
 <body>
 <table style="width:25%";>
